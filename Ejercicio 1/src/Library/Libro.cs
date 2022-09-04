@@ -17,12 +17,6 @@ namespace SRP
             this.Author = author;
             this.Code = code;
         }
-
-        public void ShelveBook(String sector, String shelve)
-        {
-            this.LibrarySector = sector;
-            this.LibraryShelve = shelve;
-        }
-
     }
 }
+/*La clase libro no debería contener información sobre la biblioteca, sino que esto debería ser una clase aparte*/
