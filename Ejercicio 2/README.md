@@ -33,7 +33,7 @@ Responsabilidad: Conocer datos del lugar, validar datos ingresados
 Colaboraciones: Ninguna
 
 Nombre de la tarjeta: Consultas
-Responsabilidades: Generar una consulta
+Responsabilidades: Generar una consulta, generar número de consulta
 Colaboraciones: DatosDelDoctor, DatosPersona, AppointmentService
 
 #### 👩‍💻 Parte 3
